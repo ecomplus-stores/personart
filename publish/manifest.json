@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.481542fb262a924691ae1b05d0496d80.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.79449585dda9cc46ff900e97d86bad1c.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.d4421ff48b841c24cc0f46c3dcd66b7b.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.688d7b77e9d713c3806b8db8c738043f.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.bab040d3ccfec3b2f3d3a627c6427ca9.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "PersonArt",
+  "short_name": "PersonArt",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Criamos ou aplicamos qualquer imagem a partir da sua ideia. Canecas de porcelana, canecas de Chopps, copos, taças de acrílico, Camisetas e muito mais. Produzimos para Festas. Empresas, Lojas e Particular",
+  "background_color": "#ffffff",
+  "theme_color": "#1b9666"
+}
